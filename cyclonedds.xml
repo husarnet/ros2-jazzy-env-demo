@@ -1,0 +1,7 @@
+<CycloneDDS>
+    <Domain>
+        <General>
+            <UseIPv6>true</UseIPv6>
+        </General>
+    </Domain>
+</CycloneDDS>
